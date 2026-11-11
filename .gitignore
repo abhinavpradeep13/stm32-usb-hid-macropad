@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# STM32CubeIDE build output and workspace files
+firmware/Debug/
+firmware/Release/
+.metadata/
+.settings/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.su
+*.cyclo
+*.list
+*.launch
+
+# Compiled test binary
+tests/touch_calibration_sim/test_cal3
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

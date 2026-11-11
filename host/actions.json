@@ -1,0 +1,5 @@
+{
+  "0": { "name": "Browser",    "type": "url",     "target": "https://www.google.com" },
+  "1": { "name": "Notepad",    "type": "app",     "target": "notepad.exe" },
+  "2": { "name": "Calculator", "type": "app",     "target": "calc.exe" }
+}
