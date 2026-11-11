@@ -1,6 +1,4 @@
-﻿firmware/Core/** linguist-detectable=true
-firmware/Core/** linguist-vendored=false
-firmware/USB_DEVICE/** linguist-detectable=true
-firmware/USB_DEVICE/** linguist-vendored=false
-firmware/Drivers/** linguist-vendored=true
-firmware/Middlewares/** linguist-vendored=true
+*.c linguist-detectable=true
+*.h linguist-detectable=true
+*.c linguist-vendored=false
+*.h linguist-vendored=false
