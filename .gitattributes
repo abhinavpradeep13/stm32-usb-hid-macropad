@@ -1,4 +1,5 @@
-﻿* linguist-vendored=false
+﻿firmware/** linguist-generated=false
+firmware/** linguist-vendored=false
 *.c linguist-language=C
 *.h linguist-language=C
 firmware/Drivers/** linguist-vendored=true
