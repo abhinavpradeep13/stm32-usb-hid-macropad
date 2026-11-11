@@ -1,6 +1,8 @@
-﻿firmware/** linguist-generated=false
-firmware/** linguist-vendored=false
-*.c linguist-language=C
+﻿*.c linguist-language=C
 *.h linguist-language=C
-firmware/Drivers/** linguist-vendored=true
-firmware/Middlewares/** linguist-vendored=true
+firmware/Core/** -linguist-vendored
+firmware/Core/** -linguist-generated
+firmware/USB_DEVICE/** -linguist-vendored
+firmware/USB_DEVICE/** -linguist-generated
+firmware/Drivers/** linguist-vendored
+firmware/Middlewares/** linguist-vendored
